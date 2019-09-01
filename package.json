@@ -1,0 +1,24 @@
+{
+  "name": "Jest_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amberlovescats14/Jest_testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amberlovescats14/Jest_testing/issues"
+  },
+  "homepage": "https://github.com/amberlovescats14/Jest_testing#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+
+}
